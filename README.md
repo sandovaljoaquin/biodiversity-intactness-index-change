@@ -9,6 +9,7 @@ The purpose of this notebook is to explore the impacts of urban expansion in the
 ### Data Access: 
 
 Biodiversity Intactness Index (BII) Time Series can be accessed through the Microsoft Planetary Computer STAC catalog. Instructions on how to do so are in the analysis.
+
 Pheonix subdivision shapefile data can be downloaded here : https://catalog.data.gov/dataset/tiger-line-shapefile-current-state-arizona-county-subdivision
 
 ### Author: Joaquin Sandoval 
